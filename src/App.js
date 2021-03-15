@@ -2,12 +2,15 @@ import { useState } from "react";
 import axios from "axios";
 function App() {
   const [data, setData] = useState(null);
-  const onClick = () => {
-    axios
-      .get("http://jsonplaceholder.typicode.com/todos/1")
-      .then((response) => {
-        setData(response.data);
-      });
+  const onClick = async () => {
+    try {
+      const response = await axios.get(
+        "http://jsonplaceholder.typicode.com/todos/1",
+      );
+      setData(response.data);
+    } catch (e) {
+      console.log(e);
+    }
   };
 
   return (
