@@ -4,7 +4,7 @@
 
 react를 사용하여 만들었습니다.
 
-> [결과물 링크](https://github.com/twozeronine/news-web-app)
+> [결과물 링크](https://twozeronine.github.io/news-web-app)
 
 ## Environments
 
