@@ -8,7 +8,7 @@ react를 사용하여 만들었습니다.
 
 <br/>
 
-> news api 개발자 plan으로 설정하였기 때문에 무료로 사용 가능하지만 로컬환경에서만 실행 가능합니다.  
+> news api 개발자 plan으로 설정하였기 때문에 무료로 사용 가능하지만 로컬환경에서만 사용 가능합니다.  
 > 결과물 이미지
 
 ## <img src="https://user-images.githubusercontent.com/67315288/111117987-90318b80-85ab-11eb-995a-9b3f494727f8.png" width="650" height="900">
