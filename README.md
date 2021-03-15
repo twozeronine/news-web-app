@@ -4,7 +4,14 @@
 
 react를 사용하여 만들었습니다.
 
-> [결과물 링크](https://twozeronine.github.io/news-web-app)
+리액트 라우터 기능을 사용하여 해당 링크로 들어갔을때 해당 카테고리의 뉴스가 나오도록 하였습니다.
+
+> news api 개발자 plan으로 설정하였기 때문에 무료로 사용 가능하지만 로컬환경에서만 실행 가능합니다.
+> 결과물 이미지
+
+<img src="https://user-images.githubusercontent.com/67315288/111117987-90318b80-85ab-11eb-995a-9b3f494727f8.png" width="650" height="900">
+<img src="https://user-images.githubusercontent.com/67315288/111118109-b7885880-85ab-11eb-8c84-70730b817914.png" width="650" height="900">
+<img src="https://user-images.githubusercontent.com/67315288/111118115-b9eab280-85ab-11eb-85df-4b0e2a8284fb.png" width="650" height="900">
 
 ## Environments
 
